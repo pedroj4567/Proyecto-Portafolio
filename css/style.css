@@ -117,51 +117,16 @@
     color: #06c147;
 }
 
-/* Tarjetas */
+/* Tarjetas de habilidades*/
 
-.habilidades{
-    display: flex;
-    justify-content: space-around;
-    height: 80vh;
-    flex-wrap: wrap;
 
-}
 
-.info{
-    height: 320px;
-    width: 300px;
-    margin: 10px;
-    margin-top: 12%;
-    padding: 30px;
-    color: rgb(0, 0, 0);
-    background-color: #dedede;
-    box-shadow: 20px 20px 10px rgba(134, 131, 131, 0.615);
-    cursor: pointer;
-    transition: all 0.5s ease-out;
-}
-.info:hover{
-    transform: scale(1.1, 1.1);
-    box-shadow: 20px 20px 10px rgba(1, 1, 1, 0.777);
-    
-}
 
-.imagen{
-    display: flex;
-    justify-content: center;
-   
-}
-.imagen img{
-    height: 100px;
-    width: 100px;
-    margin-top:-10px;
-    
-}
 
-.tituloDescripcion{
-    letter-spacing: 2px;
-    font-size: 30px;
-    font-weight: 600;
-    text-align: center;
-    margin: 25px 0px 25px 0px;
-    text-decoration: underline;
-}
+
+
+
+/* Seccion de proyectos */
+
+
+
